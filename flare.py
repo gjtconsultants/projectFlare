@@ -1,0 +1,5 @@
+
+# config.py
+API_KEY = "12345-ABCDE-SECRET-KEY"
+DB_PASSWORD = "P@ssw0rd123!"
+SSN = "123-45-678
